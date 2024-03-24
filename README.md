@@ -6,7 +6,13 @@
 ## Education	 			        		
 - B.S., Microbiology | Bandung Institute of Technology (_Sep 2023_)
 
-## Work Experience
+## Projects
+### Biomedical Research || **Metagenomic Analysis**: Is There Any Difference Between Bacteria in Healthy and Sick Individuals?
+(to be filled)
+### Personal Project || **Mood Swing be Making Me Swinging My Head Against The Wall:** An Analysis of My Mood Along The Year
+(to be filled)
+
+# Work Experience
 **Research Intern | PT. Berikan Bahari Indonesia (_Apr-Sep 2023_)**
 - Conducted multiple trials to improve the color of fish protein hydrolysate with senior researcher of the company.
 - Conducted research on fish fermentation to improve the aroma of fish protein hydrolysate.
@@ -18,9 +24,3 @@
 - Brainstormed and implemented a new workflow for the division in collaboration with the Head of Division and Organization President.
 - Organized and planned the publication schedule for Instagram and LINE platforms.
 - Devised and executed strategies to enhance engagement on Instagram, including the creation of weekly quizzes and engaging mini vlogs.
-
-## Projects
-### Biomedical Research || **Metagenomic Analysis**: Is There Any Difference Between Bacteria in Healthy and Sick Individuals?
-(to be filled)
-### Personal Project || **Mood Swing be Making Me Swinging My Head Against The Wall:** An Analysis of My Mood Along The Year
-(to be filled)
