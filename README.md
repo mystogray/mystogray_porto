@@ -12,7 +12,7 @@
 ### Personal Project || **Mood Swing be Making Me Swinging My Head Against The Wall:** An Analysis of My Mood Along The Year
 (to be filled)
 
-# Work Experience
+## Work Experience
 **Research Intern | PT. Berikan Bahari Indonesia (_Apr-Sep 2023_)**
 - Conducted multiple trials to improve the color of fish protein hydrolysate with senior researcher of the company.
 - Conducted research on fish fermentation to improve the aroma of fish protein hydrolysate.
