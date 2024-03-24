@@ -1,4 +1,3 @@
-# Vincentius Suryo
 # Fresh Graduate | Data Science Enthusiast
 
 #### Technical Skills: R, Python, SQL, Microsoft Excel and Tableau
