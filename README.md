@@ -20,7 +20,7 @@
 - Devised and executed strategies to enhance engagement on Instagram, including the creation of weekly quizzes and engaging mini vlogs.
 
 ## Projects
-### Biomedical Research | **Metagenomic Analysis**: Is There Any Difference Between Bacteria in Healthy and Sick Individuals?
+### Biomedical Research || **Metagenomic Analysis**: Is There Any Difference Between Bacteria in Healthy and Sick Individuals?
 (to be filled)
 ### Personal Project || **Mood Swing be Swinging My Head Against The Wall:** An Analysis of My 1-year Mood Tracker
 (to be filled)
