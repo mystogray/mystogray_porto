@@ -22,5 +22,5 @@
 ## Projects
 ### Biomedical Research || **Metagenomic Analysis**: Is There Any Difference Between Bacteria in Healthy and Sick Individuals?
 (to be filled)
-### Personal Project || **Mood Swing be Swinging My Head Against The Wall:** An Analysis of My 1-year Mood Tracker
+### Personal Project || **Mood Swing be Swinging My Head Against The Wall:** An Analysis of My Mood Along The Year
 (to be filled)
