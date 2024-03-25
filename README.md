@@ -9,7 +9,7 @@
 ### Biomedical Research
 **Metagenomic Analysis: Is There Any Difference Between Bacterial Abundance in Two Groups of Individuals?**\
 I analyzed and visualized bacterial abundance within two groups using RStudio in order to identify its difference between the two.\
-![plot](https://github.com/mystogray/mystogray-undergrad-thesis/blob/main/.assets/porto_betadiv.svg) ![plot](https://github.com/mystogray/mystogray-undergrad-thesis/blob/main/.assets/porto_genusabundance.svg)
+![plot](https://github.com/mystogray/mystogray-undergrad-thesis/blob/main/.assets/porto_betadiv.svg) ![plot](https://github.com/mystogray/mystogray-undergrad-thesis/blob/main/.assets/porto_genusabundance.svg)\
 [Full Details](https://github.com/mystogray/mystogray-undergrad-thesis)
 ### Personal Project || **Mood Swing be Making Me Swinging My Head Against The Wall:** An Analysis of My Mood Throughout The Year 2023
 (to be filled)
