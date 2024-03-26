@@ -12,7 +12,9 @@ I analyzed and visualized bacterial abundance within two groups using RStudio in
 ![plot](/docs/assets/porto_betadiv.svg) ![plot](/docs/assets/porto_genusabundance.svg)\
 [Full Details](https://github.com/mystogray/mystogray-undergrad-thesis)
 ### Personal Project || **Mood Swing be Making Me Swinging My Head Against The Wall:** An Analysis of My Mood Throughout The Year 2023
-(to be filled)
+I analyzed a self-random-generated moodsets and activities to identify correlations of a certain mood with a certain activity.\
+![plot](/docs/assets/porto_mood_count.svg) ![plot](/docs/assets/porto_mood_corr.svg)\
+[Full Details](https://github.com/mystogray/moodtrack)
 
 ## Work Experience
 **Research Intern | PT. Berikan Bahari Indonesia (_Apr-Sep 2023_)**
