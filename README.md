@@ -18,7 +18,7 @@ I analyzed a self-random-generated moodsets and activities to identify correlati
 [Full Details](https://github.com/mystogray/moodtrack)
 
 ## Work Experience
-**Bioinformatics Research Assistant | Institut Teknologi Bandung (_Sep 2024-Feb 2025_)**
+**Bioinformatics Research Assistant | Institut Teknologi Bandung (_Jan 2024-Feb 2025_)**
 -	Configured and maintained Linux servers, including performing regular monthly maintenance.
 -	Developed biological data analysis pipelines using Python and Linux-based computing environments.
 -	Conducted data analysis using RStudio for statistical and bioinformatics purposes.
