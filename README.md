@@ -4,7 +4,7 @@ Bioinformatician with a background in microbiology and a focus on metagenomics a
 Contact: [vincentiussuryo@gmail.com](mailto:vincentiussuryo@gmail.com)
 
 ## Education	 			        		
-- B.S., Microbiology | Bandung Institute of Technology (_Sep 2023_)
+- B.S., Microbiology (3.77/4) | Bandung Institute of Technology (_Sep 2023_)
 
 ## Projects
 ### Biomedical Research
