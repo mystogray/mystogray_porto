@@ -11,10 +11,10 @@ Contact: [vincentiussuryo@gmail.com](mailto:vincentiussuryo@gmail.com)
 **Metagenomic Analysis: Is There Any Difference Between Bacterial Abundance in Two Groups of Individuals?**\
 Compared microbiome composition between two sample groups using metagenomic sequencing data.\
 ![plot](/docs/assets/porto_betadiv.svg) ![plot](/docs/assets/porto_genusabundance.svg)\
-[Full Details](https://github.com/mystogray/mystogray-undergrad-thesis)\
+[Full Details](https://github.com/mystogray/mystogray-undergrad-thesis)
 
 **Scaling RNA-Seq Pipelines with Nextflow**
-Migrated local RNA-Seq workflow to Nextflow for scalable deployment.\
+Migrated local RNA-Seq workflow to Nextflow for scalable deployment.
 
 ### Personal Project
 **Mood Swing be Making Me Swinging My Head Against The Wall: An Analysis of My Mood Throughout The Year 2023**\
