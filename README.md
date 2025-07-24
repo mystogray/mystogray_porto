@@ -1,7 +1,7 @@
 # Bioinformatician
 Bioinformatician with a background in microbiology and a focus on metagenomics and RNA-seq analysis. Skilled in pipeline development (Nextflow), statistical modeling (R, Python), and large-scale genomic data analysis.\
-**Technical Skills: Python, R, Nextflow, SQL, Microsoft Excel and Tableau**
-### Contact: vincentiussuryo@gmail.com
+**Technical Skills: Python, R, Nextflow, SQL, Microsoft Excel and Tableau**\
+![Contact](https://img.shields.io/badge/Contact-vincentiussuryo@gmail.com-blue?style=flat&logo=gmail)
 
 ## Education	 			        		
 - B.S., Microbiology | Bandung Institute of Technology (_Sep 2023_)
