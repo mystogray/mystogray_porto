@@ -29,10 +29,6 @@ I analyzed a self-random-generated moodsets and activities to identify correlati
 - Engineered and tested cloud-based scalable workflows using Nextflow.
 - Collaborated with cross-functional teams (biologists, medical doctor) to translate data into insights, presenting results in lab meetings.
 - Developed and delivered metagenomics practical modules, serving as a hands-on practicum guide while supporting students in UNIX scripting and the QIIME2 analysis pipeline.
-<!-- - Developed and optimized an RNA-seq pipeline for differential gene expression analysis, reducing runtime by ~15% while maintaining rigorous QC standards.
-- Led microbiome analysis of 200+ nasopharyngeal samples (QIIME2, MetaPhlAn), identifying 2 novel microbial biomarkers linked to respiratory health, with findings submitted for publication.
-- Engineered and tested cloud-based scalable workflows using Nextflow, enabling efficient processing of 10TB+ genomic datasets.
-- Collaborated with cross-functional teams (biologists, medical doctor) to translate data into insights, presenting results in lab meetings and co-authoring manuscripts. -->
 
 **Research Officer | PT. Berikan Bahari Indonesia (_Jan–Aug 2024_)**
 - Conducted multiple trials to improve the color of fish protein hydrolysate with senior researcher of the company.
